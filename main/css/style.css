@@ -261,7 +261,7 @@ body.boxed-wrapper {
 
 .auto-container {
   position: static;
-  max-width: 1200px;
+  max-width: 1600px;
   padding: 0px 15px;
   margin: 0 auto;
 }
@@ -623,7 +623,7 @@ img {
   position: relative;
   display: inline-block;
   max-width: 100%;
-  max-height: 34px;
+  max-height: 40px;
   z-index: 1;
 }
 
@@ -3594,11 +3594,11 @@ img.lazy-image.loaded {
 .sec-title .lower-text {
   position: relative;
   display: block;
-  font-size: 16px;
-  line-height: 2.125em;
+  font-size: 15px;
+  line-height: 1.5em;
   font-weight: 400;
   color: var(--thm-text);
-  padding: 30px 0px 0px;
+  padding: 20px 0px 0px;
 }
 
 /* section title two */
@@ -3916,19 +3916,19 @@ img.lazy-image.loaded {
 
 .about-section .text-column .sec-title .lower-text {
   text-transform: uppercase;
-  font-size: 26px;
+  font-size: 15px;
   font-weight: 300;
   letter-spacing: 0;
   font-family: var(--thm-font);
   color: var(--thm-base);
-  line-height: 34px;
+  line-height: 0px;
 }
 
 .about-section .text-column .text {
   position: relative;
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 400;
-  line-height: 2.125em;
+  line-height: 1.5em;
   font-family: var(--thm-b-font);
 }
 
@@ -6195,7 +6195,7 @@ img.lazy-image.loaded {
 
 .news-block-two .lower-box {
   position: relative;
-  padding: 30px 0px 0px;
+  padding: 20px 0px 0px;
 }
 
 .news-block-two .post-meta {
@@ -7415,7 +7415,7 @@ img.lazy-image.loaded {
   position: relative;
   display: block;
   color: var(--thm-text);
-  padding: 30px 0px 0px;
+  padding: 20px 0px 0px;
   z-index: 1;
 }
 
@@ -11371,7 +11371,7 @@ img.lazy-image.loaded {
   position: relative;
   display: block;
   color: var(--thm-text);
-  padding: 30px 0px 0px;
+  padding: 20px 0px 0px;
   z-index: 1;
 }
 
@@ -11947,7 +11947,7 @@ img.lazy-image.loaded {
 
 .post-details .lower-box {
   position: relative;
-  padding: 30px 0px 0px;
+  padding: 20px 0px 0px;
 }
 
 .post-details .post-meta {
@@ -23100,10 +23100,11 @@ img.lazy-image.loaded {
 
 .service-nine__text {
   margin: 0;
-  font-size: 16px;
-  line-height: 2.125;
+  font-size: 15px;
+  line-height: 1.5;
   color: var(--thm-text);
-  margin-bottom: 20px;
+  margin-bottom: 15px;
+  text-align: justify;
 }
 
 .service-nine__link {

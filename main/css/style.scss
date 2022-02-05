@@ -265,7 +265,7 @@ body.boxed-wrapper {
 
 .auto-container {
   position: static;
-  max-width: 1200px;
+  max-width: 1600px;
   padding: 0px 15px;
   margin: 0 auto;
 }
@@ -21279,10 +21279,11 @@ img.lazy-image.loaded {
 
   &__text {
     margin: 0;
-    font-size: 16px;
-    line-height: 2.125;
+    font-size: 15px;
+    line-height: 1.5;
     color: var(--thm-text);
-    margin-bottom: 20px;
+    margin-bottom: 15px;
+    text-align: justify;
   }
 
   &__link {
