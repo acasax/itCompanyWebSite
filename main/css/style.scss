@@ -2485,7 +2485,7 @@ img.lazy-image.loaded {
 
 .banner-carousel .content-box h1 {
   display: block;
-  font-size: 130px;
+  font-size: 100px;
   line-height: 0.85em;
   color: #ffffff;
   font-weight: 600;
@@ -21245,6 +21245,9 @@ img.lazy-image.loaded {
 
     img {
       mix-blend-mode: luminosity;
+      height: 240px;
+      width: 100%;
+      object-fit: cover;
     }
   }
 
